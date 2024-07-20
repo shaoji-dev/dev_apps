@@ -6,7 +6,7 @@
     'author': '小鸡',
     'category': 'Accounting',
     'depends': ['account'],
-    'price': '2.0',
+    'price': '5.0',
     'currency': 'USD',
     'data': [
         'data/payment_sequences.xml',
